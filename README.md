@@ -59,17 +59,17 @@ The final model achieved:
 
 ### Model Performance
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](figure/confusion_matrix.png)
 
 The model correctly identified **185 out of 189 churners**, showing a very low number of false negatives.
 
-![Cumulative Gains Curve](images/cumulative_gains.png)
+![Cumulative Gains Curve](figure/cumulative_gains.png)
 
 By targeting the **top 20% of customers ranked by churn probability**, the model captures approximately **98.9% of churners**.
 
 ### Main Churn Drivers
 
-![Feature Importance](images/churn_drivers.png)
+![Feature Importance](figure/churn_drivers.png)
 
 Feature importance analysis highlights the main variables associated with customer churn, including customer tenure, cashback behavior, and complaints.
 
