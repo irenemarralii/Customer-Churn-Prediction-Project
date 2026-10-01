@@ -1,2 +1,6 @@
 # Customer-Churn-Prediction-Project
-End-to-end machine learning pipeline for customer churn prediction, risk segmentation and targeted retention strategies.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-orange)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-yellow)
+![Customer Analytics](https://img.shields.io/badge/Customer%20Analytics-Churn%20Prediction-green)
+
