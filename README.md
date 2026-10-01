@@ -99,8 +99,8 @@ Methods:
 
 Additional materials for this project are available below.
 
-- **Project Notebook:** Full customer churn analysis and machine learning pipeline.
-- **Project Summary:** Presentation of the methodology, results, and retention strategy.
+- **Project Notebook:** Full customer churn analysis and machine learning pipeline. [Open notebook](churn_propensity_model.ipynb)
+- **Project Summary:** Presentation of the methodology, results, and retention strategy. [Open presentation](churn_propensity_model_presentation.pdf)
 
 ## Author
 
